@@ -34,6 +34,5 @@
 ----------
 
 <h1 align="center">
-<img src="https://img.shields.io/badge/Connect%20with%20me%20on%20LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white">
-<a href="https://www.linkedin.com/in/reina-li/" target="_blank">
+<a href="https://www.linkedin.com/in/reina-li/" target="_blank"><img src="https://img.shields.io/badge/Connect%20with%20me%20on%20LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 </h1>
