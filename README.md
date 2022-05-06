@@ -2,11 +2,15 @@
 <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=4000&color=F73C79&center=true&width=500&height=100&lines=I'm+Reina+Li;%40reinarin">
 </p>
 
-<!---**Current Status:**
-- I'm currently in graduate school.
-  - [Hunter College](https://hunter.cuny.edu)
-    - [MA Statistics and Applied Mathematics](http://math.hunter.cuny.edu/graduate.shtml#statappmath)
-      - Concentration: Statistics--->
+## About Me:
+- College Assistant at Hunter College
+- [Data Analytics Apprentice](https://coopcareers.org/data-analytics) at [COOP Careers](https://coopcareers.org/)
+- [M.A. in Statistics and Applied Mathematics](http://math.hunter.cuny.edu/graduate.shtml#statappmath) | [Hunter College](https://hunter.cuny.edu) '23
+- [B.S. in Applied Mathematics and Statistics](https://www.stonybrook.edu/commcms/ams/undergraduate/) | [Stony Brook University](https://www.stonybrook.edu/) '20
+- [A.S. in Computer Science](https://www.citytech.cuny.edu/mathematics/computer-science-as.aspx) | [New York City College of Technology](https://www.citytech.cuny.edu/) '18
+- **Certifications:**
+  - [Google Data Analytics Specialization](https://coursera.org/verify/professional-cert/YS75PTQNW73X)
+  - [Google Analytics Individual Qualification](https://skillshop.exceedlms.com/student/award/i5SVfSwnF7AHiqoekkjHpKp3)
       
 ## Technology Stack 💻
 <p align="center">
