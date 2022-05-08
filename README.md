@@ -8,9 +8,9 @@
 - [M.A. in Statistics and Applied Mathematics](http://math.hunter.cuny.edu/graduate.shtml#statappmath) | [Hunter College](https://hunter.cuny.edu) '23
 - [B.S. in Applied Mathematics and Statistics](https://www.stonybrook.edu/commcms/ams/undergraduate/) | [Stony Brook University](https://www.stonybrook.edu/) '20
 - [A.S. in Computer Science](https://www.citytech.cuny.edu/mathematics/computer-science-as.aspx) | [New York City College of Technology](https://www.citytech.cuny.edu/) '18
-- **Certifications:**
+<!--- - **Certifications:**
   - [Google Data Analytics Specialization](https://coursera.org/verify/professional-cert/YS75PTQNW73X)
-  - [Google Analytics Individual Qualification](https://skillshop.exceedlms.com/student/award/i5SVfSwnF7AHiqoekkjHpKp3)
+  - [Google Analytics Individual Qualification](https://skillshop.exceedlms.com/student/award/i5SVfSwnF7AHiqoekkjHpKp3) --->
       
 ## Technology Stack 💻
 <p align="center">
