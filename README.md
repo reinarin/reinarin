@@ -6,8 +6,8 @@
 - College Assistant at Hunter College
 - [Data Analytics Apprentice](https://coopcareers.org/data-analytics) | [COOP Careers](https://coopcareers.org/) Spring '22
 - [M.A. in Statistics and Applied Mathematics](http://math.hunter.cuny.edu/graduate.shtml#statappmath) | [Hunter College](https://hunter.cuny.edu) '23
-- [B.S. in Applied Mathematics and Statistics](https://www.stonybrook.edu/commcms/ams/undergraduate/) | [Stony Brook University](https://www.stonybrook.edu/) '20
-- [A.S. in Computer Science](https://www.citytech.cuny.edu/mathematics/computer-science-as.aspx) | [New York City College of Technology](https://www.citytech.cuny.edu/) '18
+- [B.S. in Applied Mathematics and Statistics](https://www.stonybrook.edu/commcms/ams/undergraduate/) | [Stony Brook University](https://www.stonybrook.edu/) Spring'20
+- [A.S. in Computer Science](https://www.citytech.cuny.edu/mathematics/computer-science-as.aspx) | [New York City College of Technology](https://www.citytech.cuny.edu/) Spring'18
 <!--- - **Certifications:**
   - [Google Data Analytics Specialization](https://coursera.org/verify/professional-cert/YS75PTQNW73X)
   - [Google Analytics Individual Qualification](https://skillshop.exceedlms.com/student/award/i5SVfSwnF7AHiqoekkjHpKp3) --->
