@@ -4,6 +4,7 @@
 
 ## About Me:
 - Institutional Research Analyst at [NYU Steinhardt](https://steinhardt.nyu.edu/)
+- Data Analytics Captain at [COOP Careers](https://coopcareers.org/)
 - [M.A. in Statistics and Applied Mathematics](http://math.hunter.cuny.edu/graduate.shtml#statappmath) | [Hunter College](https://hunter.cuny.edu) '23
 - [Data Analytics Apprentice](https://coopcareers.org/data-analytics) | [COOP Careers](https://coopcareers.org/) Spring '22
 - [B.S. in Applied Mathematics and Statistics](https://www.stonybrook.edu/commcms/ams/undergraduate/) | [Stony Brook University](https://www.stonybrook.edu/) Spring '20
