@@ -33,9 +33,9 @@
 <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=oracle&logoColor=white">
 <img src="https://img.shields.io/badge/Microsoft%20Access-%23A4373A.svg?style=for-the-badge&logo=microsoftaccess&logoColor=white"> --->
 <br>
-<img src="https://img.shields.io/badge/Slack-%234A154B.svg?style=for-the-badge&logo=slack&logoColor=white">
-<img src="https://img.shields.io/badge/Zoom-%232D8CFF.svg?style=for-the-badge&logo=zoom&logoColor=white">
-<img src="https://img.shields.io/badge/Asana-%23273347.svg?style=for-the-badge&logo=asana&logoColor=white">
+<!--- <img src="https://img.shields.io/badge/Slack-%234A154B.svg?style=for-the-badge&logo=slack&logoColor=white"> --->
+<!--- <img src="https://img.shields.io/badge/Zoom-%232D8CFF.svg?style=for-the-badge&logo=zoom&logoColor=white"> --->
+<!--- <img src="https://img.shields.io/badge/Asana-%23273347.svg?style=for-the-badge&logo=asana&logoColor=white"> --->
 <!--- <img src="https://img.shields.io/badge/Google%20Meet-%2300897B.svg?style=for-the-badge&logo=googlemeet&logoColor=white">
 <img src="https://img.shields.io/badge/Microsoft%20Teams-%236264A7.svg?style=for-the-badge&logo=microsoftteams&logoColor=white"> --->
 </p>
