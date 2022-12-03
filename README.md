@@ -20,7 +20,6 @@
 <img src="https://img.shields.io/badge/R-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white">
 <img src="https://img.shields.io/badge/RStudio-%2375AADB.svg?style=for-the-badge&logo=rstudio&logoColor=white">
 <img src="https://img.shields.io/badge/Markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white">
-<br>
 <img src="https://img.shields.io/badge/Tableau-%23E97627.svg?style=for-the-badge&logo=tableau&logoColor=white">
 <!--- <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white"> --->
 <!--- <img src="https://img.shields.io/badge/Microsoft%20Word-%232B579A.svg?style=for-the-badge&logo=microsoftword&logoColor=white">
