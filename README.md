@@ -26,7 +26,9 @@
   - [A.S. in Computer Science](https://www.citytech.cuny.edu/mathematics/computer-science-as.aspx) | Spring 2018
 
 ## Certifications 📜
-<p align="center">[Tableau Desktop Specialist](https://www.credly.com/badges/620b8db6-fe64-4373-adf6-c9dc1c554cc6/public_url) | [Google Digital Marketing & E-commerce Specialization](https://coursera.org/share/75f2338c1ca527c42449827dc60b6a6e) | [Google Advanced Data Analytics Specialization](https://coursera.org/share/4ec767ba29e846a399c93aa2d768192b) | [Google Business Intelligence Specialization](https://coursera.org/share/688fd92e2d7946334c50ca24cc307f23) | [Google Project Management Specialization](https://coursera.org/share/34ebb299ac0a6379f59faa97ede6522e) | [Google Data Analytics Specialization](https://coursera.org/verify/professional-cert/YS75PTQNW73X)</p>
+<p align="center">
+  [Tableau Desktop Specialist](https://www.credly.com/badges/620b8db6-fe64-4373-adf6-c9dc1c554cc6/public_url) | [Google Digital Marketing & E-commerce Specialization](https://coursera.org/share/75f2338c1ca527c42449827dc60b6a6e) | [Google Advanced Data Analytics Specialization](https://coursera.org/share/4ec767ba29e846a399c93aa2d768192b) | [Google Business Intelligence Specialization](https://coursera.org/share/688fd92e2d7946334c50ca24cc307f23) | [Google Project Management Specialization](https://coursera.org/share/34ebb299ac0a6379f59faa97ede6522e) | [Google Data Analytics Specialization](https://coursera.org/verify/professional-cert/YS75PTQNW73X)
+</p>
       
 ## Technology Stack 💻
 <p align="center">
