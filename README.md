@@ -4,11 +4,11 @@
 
 ## Work 💼
 - Institutional Research Analyst at [NYU Steinhardt](https://steinhardt.nyu.edu/)
-- Senior Data Analytics Captain at [COOP Careers](https://coopcareers.org/)
+- Lead Captain, Data Analytics at [COOP Careers](https://coopcareers.org/)
 
 ## Education 📖
 - [M.A. in Statistics and Applied Mathematics](http://math.hunter.cuny.edu/graduate.shtml#statappmath) | [Hunter College](https://hunter.cuny.edu) Spring '23
-- [Data Analytics Apprentice](https://coopcareers.org/data-analytics) | [COOP Careers](https://coopcareers.org/) Spring '22
+- [Data Analytics Fellow](https://coopcareers.org/data-analytics) | [COOP Careers](https://coopcareers.org/) Spring '22
 - [B.S. in Applied Mathematics and Statistics](https://www.stonybrook.edu/commcms/ams/undergraduate/) | [Stony Brook University](https://www.stonybrook.edu/) Spring '20
 - [A.S. in Computer Science](https://www.citytech.cuny.edu/mathematics/computer-science-as.aspx) | [New York City College of Technology](https://www.citytech.cuny.edu/) Spring '18
 <!--- - **Certifications:**
