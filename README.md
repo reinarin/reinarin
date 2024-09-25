@@ -16,10 +16,14 @@
   - Mathematics Workshop Facilitator | August 2017 - January 2020
 
 ## Education 📖
-- [M.A. in Statistics and Applied Mathematics, Concentration in Statistics](http://math.hunter.cuny.edu/graduate.shtml#statappmath) | [Hunter College](https://hunter.cuny.edu) Spring 2023
-- [Data Analytics Fellow](https://coopcareers.org/data-analytics) | [COOP Careers Inc](https://coopcareers.org/) Spring 2022
-- [B.S. in Applied Mathematics and Statistics](https://www.stonybrook.edu/commcms/ams/undergraduate/) | [Stony Brook University](https://www.stonybrook.edu/) Spring 2020
-- [A.S. in Computer Science](https://www.citytech.cuny.edu/mathematics/computer-science-as.aspx) | [New York City College of Technology](https://www.citytech.cuny.edu/) Spring 2018
+- [Hunter College](https://hunter.cuny.edu)
+  - [M.A. in Statistics and Applied Mathematics, Concentration in Statistics](http://math.hunter.cuny.edu/graduate.shtml#statappmath) | Spring 2023
+- [COOP Careers Inc](https://coopcareers.org/)
+  - [Data Analytics Fellow](https://coopcareers.org/data-analytics) | Spring 2022
+- [Stony Brook University](https://www.stonybrook.edu/)
+  - [B.S. in Applied Mathematics and Statistics](https://www.stonybrook.edu/commcms/ams/undergraduate/) | Spring 2020
+- [New York City College of Technology](https://www.citytech.cuny.edu/)
+  - [A.S. in Computer Science](https://www.citytech.cuny.edu/mathematics/computer-science-as.aspx) | Spring 2018
 
 **Certifications:**
   - [Tableau Desktop Specialist](https://www.credly.com/badges/620b8db6-fe64-4373-adf6-c9dc1c554cc6/public_url)
