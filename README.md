@@ -3,13 +3,17 @@
 </p>
 
 ## Work 💼
-- Institutional Research Analyst, Office of Institutional Effectiveness at [NYU Steinhardt School of Culture, Education, and Human Development](https://steinhardt.nyu.edu/) August 2022 - Present
-- Lead Captain, Data Analytics at [COOP Careers Inc](https://coopcareers.org/) July 2024 - Present
-  - Senior Captain, Data Analytics at [COOP Careers Inc](https://coopcareers.org/) January 2023 - July 2024
-  - Captain, Data Analytics at [COOP Careers Inc](https://coopcareers.org/) July 2022 - January 2023
-- College Assistant, School of Education at [Hunter College](https://education.hunter.cuny.edu/) August 2021 - July 2022
-  - Program Assistant, School of Education at [Hunter College](https://education.hunter.cuny.edu/) July 2021 - August 2021
-- Mathematics Workshop Facilitator at [New York City College of Technology](https://www.citytech.cuny.edu/) August 2017 - January 2020
+- [NYU Steinhardt School of Culture, Education, and Human Development](https://steinhardt.nyu.edu/)
+  - Institutional Research Analyst, Office of Institutional Effectiveness | August 2022 - Present
+- [COOP Careers Inc](https://coopcareers.org/)
+  - Lead Captain, Data Analytics | July 2024 - Present
+  - Senior Captain, Data Analytics | January 2023 - July 2024
+  - Captain, Data Analytics | July 2022 - January 2023
+- [Hunter College](https://education.hunter.cuny.edu/)
+  - College Assistant, School of Education | August 2021 - July 2022
+  - Program Assistant, School of Education | July 2021 - August 2021
+- [New York City College of Technology](https://www.citytech.cuny.edu/)
+  - Mathematics Workshop Facilitator | August 2017 - January 2020
 
 ## Education 📖
 - [M.A. in Statistics and Applied Mathematics, Concentration in Statistics](http://math.hunter.cuny.edu/graduate.shtml#statappmath) | [Hunter College](https://hunter.cuny.edu) Spring 2023
