@@ -3,14 +3,19 @@
 </p>
 
 ## Work 💼
-- Institutional Research Analyst at [NYU Steinhardt School of Culture, Education, and Human Development](https://steinhardt.nyu.edu/)
-- Lead Captain, Data Analytics at [COOP Careers Inc](https://coopcareers.org/)
+- Institutional Research Analyst, Office of Institutional Effectiveness at [NYU Steinhardt School of Culture, Education, and Human Development](https://steinhardt.nyu.edu/) August 2022 - Present
+- Lead Captain, Data Analytics at [COOP Careers Inc](https://coopcareers.org/) July 2024 - Present
+  - Senior Captain, Data Analytics at [COOP Careers Inc](https://coopcareers.org/) January 2023 - July 2024
+  - Captain, Data Analytics at [COOP Careers Inc](https://coopcareers.org/) July 2022 - January 2023
+- College Assistant, School of Education at [Hunter College](https://education.hunter.cuny.edu/) August 2021 - July 2022
+  - Program Assistant, School of Education at [Hunter College](https://education.hunter.cuny.edu/) July 2021 - August 2021
+- Mathematics Workshop Facilitator at [New York City College of Technology](https://www.citytech.cuny.edu/) August 2017 - January 2020
 
 ## Education 📖
-- [M.A. in Statistics and Applied Mathematics, Concentration in Statistics](http://math.hunter.cuny.edu/graduate.shtml#statappmath) | [Hunter College](https://hunter.cuny.edu) Spring '23
-- [Data Analytics Fellow](https://coopcareers.org/data-analytics) | [COOP Careers Inc](https://coopcareers.org/) Spring '22
-- [B.S. in Applied Mathematics and Statistics](https://www.stonybrook.edu/commcms/ams/undergraduate/) | [Stony Brook University](https://www.stonybrook.edu/) Spring '20
-- [A.S. in Computer Science](https://www.citytech.cuny.edu/mathematics/computer-science-as.aspx) | [New York City College of Technology](https://www.citytech.cuny.edu/) Spring '18
+- [M.A. in Statistics and Applied Mathematics, Concentration in Statistics](http://math.hunter.cuny.edu/graduate.shtml#statappmath) | [Hunter College](https://hunter.cuny.edu) Spring 2023
+- [Data Analytics Fellow](https://coopcareers.org/data-analytics) | [COOP Careers Inc](https://coopcareers.org/) Spring 2022
+- [B.S. in Applied Mathematics and Statistics](https://www.stonybrook.edu/commcms/ams/undergraduate/) | [Stony Brook University](https://www.stonybrook.edu/) Spring 2020
+- [A.S. in Computer Science](https://www.citytech.cuny.edu/mathematics/computer-science-as.aspx) | [New York City College of Technology](https://www.citytech.cuny.edu/) Spring 2018
 
 **Certifications:**
   - [Tableau Desktop Specialist](https://www.credly.com/badges/620b8db6-fe64-4373-adf6-c9dc1c554cc6/public_url)
