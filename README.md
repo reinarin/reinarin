@@ -4,15 +4,15 @@
 
 ## Work 💼
 - [NYU Steinhardt School of Culture, Education, and Human Development](https://steinhardt.nyu.edu/)
-*Technologies Used:* Tableau (Prep, Desktop, Server), R (RStudio), Qualtrics, Salesforce, PeopleSoft (Albert SIS), Zendesk, Box, Asana, Slack, Google Workspace
+- *Technologies Used:* Tableau (Prep, Desktop, Server), R (RStudio), Qualtrics, Salesforce, PeopleSoft (Albert SIS), Zendesk, Box, Asana, Slack, Google Workspace
   - Institutional Research Analyst, Office of Institutional Effectiveness | August 2022 - Present
 - [COOP Careers Inc](https://coopcareers.org/)
-*Technologies Used:* Brightspace, Tableau Public, Microsoft Excel, Zoom, Slack, Google Workspace (Sheets, Slides, Docs, Colab, Classroom)
+- *Technologies Used:* Brightspace, Tableau Public, Microsoft Excel, Zoom, Slack, Google Workspace (Sheets, Slides, Docs, Colab, Classroom)
   - Lead Captain, Data Analytics | July 2024 - Present
   - Senior Captain, Data Analytics | January 2023 - July 2024
   - Captain, Data Analytics | July 2022 - January 2023
 - [Hunter College](https://education.hunter.cuny.edu/)
-*Technologies Used:* Canva, Mailchimp, Facebook, LinkedIn, X, Microsoft Excel, Zoom, Padlet, Google Workspace (Sheets, Slides, Docs, Classroom)
+- *Technologies Used:* Canva, Mailchimp, Facebook, LinkedIn, X, Microsoft Excel, Zoom, Padlet, Google Workspace (Sheets, Slides, Docs, Classroom)
   - College Assistant, School of Education | August 2021 - July 2022
   - Program Assistant, School of Education | July 2021 - August 2021
 - [New York City College of Technology](https://www.citytech.cuny.edu/)
