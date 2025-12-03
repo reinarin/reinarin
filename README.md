@@ -8,7 +8,7 @@
   - Institutional Research Analyst, Office of Institutional Effectiveness | August 2022 - Present
 - [COOP Careers Inc](https://coopcareers.org/)
 - *Technologies Used: Brightspace, Tableau Public, Microsoft Excel, Zoom, Slack, Google Workspace (Sheets, Slides, Docs, Colab, Classroom)*
-  - Lead Captain, Data Analytics | July 2024 - Present
+  - Lead Captain, Data Analytics | July 2024 - December 2025
   - Senior Captain, Data Analytics | January 2023 - July 2024
   - Captain, Data Analytics | July 2022 - January 2023
 - [Hunter College](https://education.hunter.cuny.edu/)
